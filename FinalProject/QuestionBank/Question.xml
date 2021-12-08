@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<totalQuestion Amount="11">
+  <question>
+    <content>Macbook sử dụng hệ điều hành nào?</content>
+    <topic>Technology</topic>
+    <answer>Android</answer>
+    <answer>Linux</answer>
+    <answer>Window</answer>
+    <correctAnswer>OS</correctAnswer>
+  </question>
+  <question>
+    <content>Động vật nào biết bơi?</content>
+    <topic>Bird</topic>
+    <answer>Con chim</answer>
+    <answer>Con chim đại bàng</answer>
+    <answer>Con chim sẻ</answer>
+    <correctAnswer>Con chim cánh cụt</correctAnswer>
+  </question>
+  <question>
+    <content>Động vật nào là động vật săn mồi?</content>
+    <topic>Animal</topic>
+    <answer>Con chim sẻ</answer>
+    <answer>Con vẹt</answer>
+    <answer>Con Hà mã</answer>
+    <correctAnswer>Con cọp</correctAnswer>
+  </question>
+  <question>
+    <content>Động vật nào có 2 chân?</content>
+    <topic>Animal</topic>
+    <answer>Con Cá sấu</answer>
+    <answer>Con chim sẻ</answer>
+    <answer>Con chuột</answer>
+    <correctAnswer>Con cá mập</correctAnswer>
+  </question>
+  <question>
+    <content>Động vật nào chạy nhanh nhất?</content>
+    <topic>Animal</topic>
+    <answer>Con tắc kè</answer>
+    <answer>Con rùa</answer>
+    <answer>Con bò cạp</answer>
+    <correctAnswer>Con báo</correctAnswer>
+  </question>
+  <question>
+    <content>Red là màu gì?</content>
+    <topic>Color</topic>
+    <answer>màu xanh</answer>
+    <answer>màu tím</answer>
+    <answer>màu vàng</answer>
+    <correctAnswer>màu đỏ</correctAnswer>
+  </question>
+  <question>
+    <content>Tivi để làm gì?</content>
+    <topic>Furniture</topic>
+    <answer>ăn</answer>
+    <answer>ngủ</answer>
+    <answer>đọc sách</answer>
+    <correctAnswer>xem phim</correctAnswer>
+  </question>
+  <question>
+    <content>Iphone là gì?</content>
+    <topic>Technology</topic>
+    <answer>tấm thảm</answer>
+    <answer>cái bàn</answer>
+    <answer>cái giường</answer>
+    <correctAnswer>Điện thoại thông minh</correctAnswer>
+  </question>
+  <question>
+    <content>Shoppee là gì?</content>
+    <topic>Application</topic>
+    <answer>Đồ trung quốc</answer>
+    <answer>Đồ buôn lậu</answer>
+    <answer>kênh tài xỉu</answer>
+    <correctAnswer>Trang thương mại điện tử</correctAnswer>
+  </question>
+  <question>
+    <content>Cá nào to nhất trong các con dưới đây?</content>
+    <topic>Fish</topic>
+    <answer>Cá Ngựa</answer>
+    <answer>Cá độ</answer>
+    <answer>Cá đuối</answer>
+    <correctAnswer>Cá Voi</correctAnswer>
+  </question>
+  <question>
+    <content>Table là cái gì?</content>
+    <topic>Furniture</topic>
+    <answer>Cái tủ quần áo</answer>
+    <answer>Cái Máy giặt</answer>
+    <answer>Cái bếp</answer>
+    <correctAnswer>Cái Bàn</correctAnswer>
+  </question>
+</totalQuestion>
